@@ -5,7 +5,7 @@ class Weapon:
         self.model = model
 
     def __str__(self)->str:
-        return f"Тип оружия: {self.weapon_type}\nПроизводитель: {self.company_name} Модель: {self.model}"
+        return f"Тип оружия: {self.weapon_type}\nПроизводитель: {self.company_name} Модель: {self.model}\n"
 
     def __repr__(self)->str:
         return "Weapon: " + self.__str__()
