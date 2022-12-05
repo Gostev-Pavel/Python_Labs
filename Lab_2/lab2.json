@@ -1,0 +1,35 @@
+{
+   "name": "Academi",
+   "handguns": [
+      {
+         "weapon_type": "Штурмовая винтовка",
+         "company_name": "Colt",
+         "model": "Model 920",
+         "caliber": 5.56,
+         "production_year": 1994
+      },
+      {
+         "weapon_type": "Автоматический пистолет",
+         "company_name": "Glock",
+         "model": "18",
+         "caliber": 9.0,
+         "production_year": 1989
+      }
+   ],
+   "armored_vehicles": [
+      {
+         "weapon_type": "БМП",
+         "company_name": "США",
+         "model": "M2 Bradley",
+         "caliber": 25.0,
+         "engine_power": 500
+      },
+      {
+         "weapon_type": "Военный внедорожник",
+         "company_name": "США",
+         "model": "HMMWV",
+         "caliber": 12.7,
+         "engine_power": 195
+      }
+   ]
+}
