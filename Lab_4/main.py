@@ -76,6 +76,6 @@ def SumCostAllItems(initial_list_one: dict, initial_list_two : dict)->list:
 WriteCSV(CreateDataSet(), FILENAME)
 dataSet : list = ReadCSV(FILENAME)
 new_DataSet : list = OverrideMap(SplitItemName, dataSet)
-WriteCSV(new_DataSet, OUTPUTFILE)
+WriteInCSVFromListDict(new_DataSet, OUTPUTFILE)
 all_item_cost = OverrideReduce(SumCostAllItems, dataSet)["Стоимость предмета"]
 print("Стоимость всех предметов в файле: " + str(all_item_cost))
