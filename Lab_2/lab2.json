@@ -1,15 +1,15 @@
-{
+п»ї{
    "name": "Academi",
    "handguns": [
       {
-         "weapon_type": "Штурмовая винтовка",
+         "weapon_type": "РЁС‚СѓСЂРјРѕРІР°СЏ РІРёРЅС‚РѕРІРєР°",
          "company_name": "Colt",
          "model": "Model 920",
          "caliber": 5.56,
          "production_year": 1994
       },
       {
-         "weapon_type": "Автоматический пистолет",
+         "weapon_type": "РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРёР№ РїРёСЃС‚РѕР»РµС‚",
          "company_name": "Glock",
          "model": "18",
          "caliber": 9.0,
@@ -18,15 +18,15 @@
    ],
    "armored_vehicles": [
       {
-         "weapon_type": "БМП",
-         "company_name": "США",
+         "weapon_type": "Р‘РњРџ",
+         "company_name": "РЎРЁРђ",
          "model": "M2 Bradley",
          "caliber": 25.0,
          "engine_power": 500
       },
       {
-         "weapon_type": "Военный внедорожник",
-         "company_name": "США",
+         "weapon_type": "Р’РѕРµРЅРЅС‹Р№ РІРЅРµРґРѕСЂРѕР¶РЅРёРє",
+         "company_name": "РЎРЁРђ",
          "model": "HMMWV",
          "caliber": 12.7,
          "engine_power": 195
